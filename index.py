@@ -50,11 +50,9 @@ def clear_current_questions():
     return
 
 # Main app
-c1, c2 = st.columns([5, 1])
-with c1:
-    st.title("Pilot Quiz")
-with c2:
-    st.image("parachute.png")
+st.logo("parachute.png")
+st.title("Pilot Quiz")
+
 
 # Step 1: Choose a topic
 topic = st.selectbox("Choose a topic:", list(questions_data.keys()), on_change=clear_current_questions)
