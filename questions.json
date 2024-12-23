@@ -1,0 +1,1120 @@
+{
+"Meteorology": [
+        {
+            "question_number": 1,
+            "question": "What type of cloud is typically associated with thunderstorms?",
+            "options": {
+                "A": "Cumulus",
+                "B": "Cirrus",
+                "C": "Cumulonimbus",
+                "D": "Stratus"
+            },
+            "correct_answer": "C",
+            "explanation": "Cumulonimbus clouds are large, towering clouds often associated with severe weather, including thunderstorms."
+        },
+        {
+            "question_number": 2,
+            "question": "What is the primary cause of turbulence near mountains?",
+            "options": {
+                "A": "Thermal currents",
+                "B": "Wind shear",
+                "C": "Mechanical turbulence",
+                "D": "Cold fronts"
+            },
+            "correct_answer": "C",
+            "explanation": "Mechanical turbulence occurs when airflow is disrupted by terrain such as mountains, causing rough flying conditions."
+        },
+        {
+            "question_number": 3,
+            "question": "What weather phenomenon is indicated by rapidly falling pressure?",
+            "options": {
+                "A": "Approaching high pressure system",
+                "B": "Clear skies",
+                "C": "Approaching low pressure system",
+                "D": "Stable weather"
+            },
+            "correct_answer": "C",
+            "explanation": "Rapidly falling pressure typically indicates an approaching low-pressure system, which is often associated with unsettled weather."
+        },
+        {
+            "question_number": 4,
+            "question": "What does an altimeter measure?",
+            "options": {
+                "A": "Temperature",
+                "B": "Air pressure",
+                "C": "Altitude",
+                "D": "Wind speed"
+            },
+            "correct_answer": "C",
+            "explanation": "An altimeter measures altitude by sensing changes in air pressure as the aircraft ascends or descends."
+        },
+        {
+            "question_number": 5,
+            "question": "Which atmospheric layer contains most weather phenomena?",
+            "options": {
+                "A": "Stratosphere",
+                "B": "Troposphere",
+                "C": "Mesosphere",
+                "D": "Thermosphere"
+            },
+            "correct_answer": "B",
+            "explanation": "The troposphere is the lowest layer of the atmosphere and contains most of the Earth's weather phenomena."
+        },
+        {
+            "question_number": 6,
+            "question": "What is a microburst?",
+            "options": {
+                "A": "A localized downdraft causing severe wind shear",
+                "B": "A sudden increase in air temperature",
+                "C": "A small tornado",
+                "D": "A type of fog"
+            },
+            "correct_answer": "A",
+            "explanation": "A microburst is a localized downdraft within a thunderstorm that can create severe wind shear near the ground."
+        },
+        {
+            "question_number": 7,
+            "question": "What is the Coriolis effect?",
+            "options": {
+                "A": "A force causing air to rise",
+                "B": "The deflection of moving air due to Earth's rotation",
+                "C": "A type of turbulence",
+                "D": "The warming of Earth's surface"
+            },
+            "correct_answer": "B",
+            "explanation": "The Coriolis effect is the deflection of moving air and water due to the rotation of the Earth."
+        },
+        {
+            "question_number": 8,
+            "question": "What is the typical weather associated with a cold front?",
+            "options": {
+                "A": "Prolonged light rain",
+                "B": "Thunderstorms and gusty winds",
+                "C": "Clear and calm conditions",
+                "D": "Steady drizzle"
+            },
+            "correct_answer": "B",
+            "explanation": "Cold fronts often bring thunderstorms and gusty winds as they force warm air to rise quickly."
+        },
+        {
+            "question_number": 9,
+            "question": "What instrument measures wind speed?",
+            "options": {
+                "A": "Barometer",
+                "B": "Anemometer",
+                "C": "Altimeter",
+                "D": "Hygrometer"
+            },
+            "correct_answer": "B",
+            "explanation": "An anemometer is an instrument used to measure wind speed."
+        },
+        {
+            "question_number": 10,
+            "question": "What is dew point?",
+            "options": {
+                "A": "The temperature at which air becomes saturated and condensation begins",
+                "B": "The highest temperature recorded in a day",
+                "C": "The point where dew evaporates",
+                "D": "The altitude where clouds form"
+            },
+            "correct_answer": "A",
+            "explanation": "The dew point is the temperature at which air becomes saturated and water vapor condenses into dew."
+        },
+        {
+            "question_number": 11,
+            "question": "What is an isobar?",
+            "options": {
+                "A": "A line connecting points of equal temperature",
+                "B": "A line connecting points of equal pressure",
+                "C": "A boundary between two air masses",
+                "D": "A measure of relative humidity"
+            },
+            "correct_answer": "B",
+            "explanation": "An isobar is a line on a weather map that connects points of equal atmospheric pressure."
+        },
+        {"question_number": 12, "question": "What is a temperature inversion?", "options": {"A": "When temperature increases with altitude", "B": "When temperature decreases with altitude", "C": "When temperature remains constant", "D": "When temperature fluctuates rapidly"}, "correct_answer": "A", "explanation": "A temperature inversion occurs when temperature increases with altitude, trapping cooler air below and leading to stable conditions."},
+        {"question_number": 13, "question": "Which type of precipitation is formed in cumulonimbus clouds during thunderstorms?", "options": {"A": "Rain", "B": "Snow", "C": "Hail", "D": "Sleet"}, "correct_answer": "C", "explanation": "Hail forms in cumulonimbus clouds during thunderstorms as updrafts carry raindrops into freezing layers multiple times."},
+        {"question_number": 14, "question": "What causes sea breezes?", "options": {"A": "Land heating faster than the sea during the day", "B": "Land cooling faster than the sea at night", "C": "Equal heating of land and sea", "D": "Unequal heating of the atmosphere"}, "correct_answer": "A", "explanation": "Sea breezes occur during the day as the land heats up faster than the sea, causing air to rise over land and cooler air to flow from the sea."},
+        {"question_number": 15, "question": "What is a jet stream?", "options": {"A": "A high-speed river of air in the upper atmosphere", "B": "A fast-moving surface wind", "C": "A current of air caused by mountains", "D": "A tropical wind system"}, "correct_answer": "A", "explanation": "A jet stream is a high-speed river of air in the upper atmosphere that influences weather patterns and aviation."},
+        {"question_number": 16, "question": "What weather is typically associated with a warm front?", "options": {"A": "Clear skies and stable conditions", "B": "Prolonged steady rain", "C": "Thunderstorms and gusty winds", "D": "Rapidly clearing skies"}, "correct_answer": "B", "explanation": "Warm fronts are often associated with prolonged, steady rain as warm air rises gradually over a cooler air mass."},
+        {"question_number": 17, "question": "What is a squall line?", "options": {"A": "A line of thunderstorms ahead of a cold front", "B": "A line of clouds marking a warm front", "C": "A boundary between two air masses", "D": "A stationary line of pressure"}, "correct_answer": "A", "explanation": "A squall line is a line of thunderstorms that typically forms ahead of a cold front, bringing strong winds and heavy rain."},
+        {"question_number": 18, "question": "What is the significance of a high dew point?", "options": {"A": "Indicates low moisture in the air", "B": "Indicates high moisture content", "C": "Indicates dry and stable air", "D": "Indicates rapidly falling pressure"}, "correct_answer": "B", "explanation": "A high dew point indicates a large amount of moisture in the air, often leading to cloud formation and precipitation."},
+        {"question_number": 19, "question": "What weather is typical in the eye of a hurricane?", "options": {"A": "Calm conditions with clear skies", "B": "High winds and heavy rain", "C": "Tornadoes and severe storms", "D": "Rapidly rising temperatures"}, "correct_answer": "A", "explanation": "The eye of a hurricane is characterized by calm conditions and clear skies, surrounded by the eyewall's intense weather."},
+        {"question_number": 20, "question": "What is wind shear?", "options": {"A": "A sudden change in wind speed and/or direction", "B": "A constant high wind speed", "C": "Turbulence caused by mountains", "D": "The downward flow of air"}, "correct_answer": "A", "explanation": "Wind shear is a sudden change in wind speed and/or direction, often causing turbulence and posing challenges to aviation."}
+    ],
+        
+        "Air Law": [
+            {
+                "question_number": 1,
+                "question": "Which class of airspace requires a pilot to obtain ATC clearance before entry?",
+                "options": {
+                    "A": "Class G",
+                    "B": "Class D",
+                    "C": "Class E",
+                    "D": "Class A"
+                },
+                "correct_answer": "D",
+                "explanation": "Class A airspace is strictly controlled, and all aircraft require ATC clearance to enter."
+            },
+            {
+                "question_number": 2,
+                "question": "What does a solid magenta line on an aviation chart indicate?",
+                "options": {
+                    "A": "Restricted area",
+                    "B": "Prohibited area",
+                    "C": "Class C airspace boundary",
+                    "D": "Class E airspace boundary"
+                },
+                "correct_answer": "D",
+                "explanation": "A solid magenta line represents the boundary of Class E airspace on sectional charts."
+            },
+            {
+                "question_number": 3,
+                "question": "What is the purpose of a NOTAM?",
+                "options": {
+                    "A": "To provide weather forecasts",
+                    "B": "To notify pilots of airspace restrictions or hazards",
+                    "C": "To issue flight plans",
+                    "D": "To report wind speeds at altitude"
+                },
+                "correct_answer": "B",
+                "explanation": "NOTAMs inform pilots of temporary hazards, restrictions, or changes to airspace and procedures."
+            },
+            {
+                "question_number": 4,
+                "question": "What is the maximum altitude for VFR flight in uncontrolled airspace?",
+                "options": {
+                    "A": "2000 feet",
+                    "B": "4000 feet",
+                    "C": "6000 feet",
+                    "D": "3000 feet"
+                },
+                "correct_answer": "B",
+                "explanation": "The maximum altitude for VFR flight in uncontrolled airspace is 4000 feet above mean sea level."
+            },
+            {
+                "question_number": 5,
+                "question": "What is an ATZ (Aerodrome Traffic Zone)?",
+                "options": {
+                    "A": "A zone of airspace reserved for military operations",
+                    "B": "A zone of controlled airspace around an airport",
+                    "C": "An uncontrolled area around small airfields",
+                    "D": "A restricted area for training purposes"
+                },
+                "correct_answer": "B",
+                "explanation": "An Aerodrome Traffic Zone (ATZ) is a controlled area around an airport to manage air traffic and ensure safety."
+            },
+            {
+                "question_number": 6,
+                "question": "What is the meaning of the term 'Mode C'?",
+                "options": {
+                    "A": "An airspace restriction",
+                    "B": "A transponder mode that reports altitude",
+                    "C": "A type of controlled airspace",
+                    "D": "A NOTAM category"
+                },
+                "correct_answer": "B",
+                "explanation": "Mode C is a transponder mode that enables the reporting of altitude data to air traffic control."
+            },
+            {
+                "question_number": 7,
+                "question": "What is a transponder's primary function?",
+                "options": {
+                    "A": "To measure altitude",
+                    "B": "To assist in navigation",
+                    "C": "To provide identification and altitude information to ATC",
+                    "D": "To measure wind speed"
+                },
+                "correct_answer": "C",
+                "explanation": "A transponder provides an aircraft's identification and altitude information to air traffic control for monitoring and separation."
+            },
+            {
+                "question_number": 8,
+                "question": "What is the lateral extent of an ATZ (Aerodrome Traffic Zone)?",
+                "options": {
+                    "A": "3 nautical miles",
+                    "B": "5 nautical miles",
+                    "C": "10 nautical miles",
+                    "D": "2 nautical miles"
+                },
+                "correct_answer": "A",
+                "explanation": "An ATZ typically extends laterally to a radius of 3 nautical miles from the center of the associated aerodrome."
+            },
+            {
+                "question_number": 9,
+                "question": "What is required to operate in Class C airspace?",
+                "options": {
+                    "A": "VFR clearance only",
+                    "B": "A transponder with Mode C capability",
+                    "C": "Only IFR clearance",
+                    "D": "No specific requirements"
+                },
+                "correct_answer": "B",
+                "explanation": "In Class C airspace, a transponder with Mode C capability is required for altitude reporting and ATC communication."
+            },
+            {
+                "question_number": 10,
+                "question": "What is the purpose of a TFR (Temporary Flight Restriction)?",
+                "options": {
+                    "A": "To provide weather updates",
+                    "B": "To restrict airspace access for safety or security reasons",
+                    "C": "To indicate areas of turbulence",
+                    "D": "To outline VFR corridors"
+                },
+                "correct_answer": "B",
+                "explanation": "A TFR restricts access to specific airspace temporarily for safety or security, such as during a major event or disaster response."
+            },
+            {
+                "question_number": 11,
+                "question": "What does 'right of way' mean in air law?",
+                "options": {
+                    "A": "The direction an aircraft must travel",
+                    "B": "Rules dictating which aircraft has priority in various situations",
+                    "C": "The right to enter controlled airspace",
+                    "D": "Permission to fly over a restricted area"
+                },
+                "correct_answer": "B",
+                "explanation": "'Right of way' refers to the rules determining which aircraft has priority in scenarios such as converging or overtaking flights."
+            },
+            {
+                "question_number": 12,
+                "question": "What is the vertical limit of Class G airspace in most regions?",
+                "options": {
+                    "A": "12,000 feet",
+                    "B": "10,000 feet",
+                    "C": "14,500 feet",
+                    "D": "18,000 feet"
+                },
+                "correct_answer": "C",
+                "explanation": "In most regions, Class G airspace extends up to 14,500 feet, above which controlled airspace typically begins."
+            },
+            {
+                "question_number": 13,
+                "question": "What is the purpose of a VFR corridor?",
+                "options": {
+                    "A": "To provide a safe route for VFR traffic through controlled airspace",
+                    "B": "To separate commercial and general aviation",
+                    "C": "To restrict military operations",
+                    "D": "To guide aircraft into restricted areas"
+                },
+                "correct_answer": "A",
+                "explanation": "A VFR corridor allows VFR flights to pass through controlled airspace without requiring clearance."
+            },
+            {
+                "question_number": 14,
+                "question": "What is required to enter Class B airspace?",
+                "options": {
+                    "A": "An ATC clearance",
+                    "B": "A transponder with Mode C",
+                    "C": "Two-way radio communication",
+                    "D": "All of the above"
+                },
+                "correct_answer": "D",
+                "explanation": "Class B airspace requires ATC clearance, a Mode C transponder, and two-way radio communication for entry."
+            },
+            {
+                "question_number": 15,
+                "question": "What is an FIR (Flight Information Region)?",
+                "options": {
+                    "A": "An area of controlled airspace",
+                    "B": "A region where flight information and alerting services are provided",
+                    "C": "A restricted military zone",
+                    "D": "An uncontrolled region for recreational flights"
+                },
+                "correct_answer": "B",
+                "explanation": "An FIR is a region where flight information and alerting services are provided to ensure safe and efficient air traffic management."
+            },
+            {
+                "question_number": 16,
+                "question": "What is the primary purpose of controlled airspace?",
+                "options": {
+                    "A": "To segregate VFR and IFR traffic",
+                    "B": "To restrict general aviation flights",
+                    "C": "To guide military operations",
+                    "D": "To limit air traffic density"
+                },
+                "correct_answer": "A",
+                "explanation": "Controlled airspace ensures the safe separation and management of VFR and IFR traffic."
+            },
+            {
+                "question_number": 17,
+                "question": "What is the role of an air traffic control tower?",
+                "options": {
+                    "A": "To manage ground traffic only",
+                    "B": "To provide separation services in the vicinity of an airport",
+                    "C": "To manage all national airspace",
+                    "D": "To issue NOTAMs"
+                },
+                "correct_answer": "B",
+                "explanation": "The ATC tower provides separation and guidance services in the immediate vicinity of an airport."
+            },
+            {
+                "question_number": 18,
+                "question": "What is a CTA (Control Area)?",
+                "options": {
+                    "A": "A designated area for drone operations",
+                    "B": "Controlled airspace extending upwards from a specified altitude",
+                    "C": "Uncontrolled airspace near an airport",
+                    "D": "Airspace for training purposes only"
+                },
+                "correct_answer": "B",
+                "explanation": "A CTA is controlled airspace that begins at a specific altitude and is designed to protect IFR traffic."
+            },
+            {
+                "question_number": 19,
+                "question": "What does the term 'special use airspace' encompass?",
+                "options": {
+                    "A": "Restricted, prohibited, and danger areas",
+                    "B": "Airspace used only for IFR flights",
+                    "C": "Regions designated for recreational flying",
+                    "D": "Temporary flight restrictions only"
+                },
+                "correct_answer": "A",
+                "explanation": "Special use airspace includes restricted, prohibited, and danger areas, which may pose risks to aircraft."
+    
+}, {
+    "question_number": 20,
+    "question": "What is the minimum visibility required for VFR flight in Class E airspace during the day?",
+    "options": {
+        "A": "1 mile",
+        "B": "3 miles",
+        "C": "5 miles",
+        "D": "10 miles"
+    },
+    "correct_answer": "B",
+    "explanation": "The minimum visibility for VFR flight in Class E airspace during the day is 3 miles, to ensure safety and separation."
+}],
+
+    "Principles of Flight": [
+        {
+            "question_number": 1,
+            "question": "What is the primary factor affecting lift generation?",
+            "options": {
+                "A": "Wing shape",
+                "B": "Weight of the aircraft",
+                "C": "Pilot skill",
+                "D": "Altitude"
+            },
+            "correct_answer": "A",
+            "explanation": "The shape of the wing (airfoil) is the primary factor that generates lift by creating a pressure difference between the top and bottom surfaces."
+        },
+        {
+            "question_number": 2,
+            "question": "What is the purpose of the angle of attack?",
+            "options": {
+                "A": "To reduce drag",
+                "B": "To control lift",
+                "C": "To improve stability",
+                "D": "To increase weight"
+            },
+            "correct_answer": "B",
+            "explanation": "The angle of attack is the angle between the wing's chord line and the relative airflow, directly affecting the amount of lift generated."
+        },
+        {
+            "question_number": 3,
+            "question": "What is a stall in flight?",
+            "options": {
+                "A": "When the engine fails",
+                "B": "When the wing stops producing lift due to a high angle of attack",
+                "C": "When the aircraft slows below minimum speed",
+                "D": "When the airspeed indicator fails"
+            },
+            "correct_answer": "B",
+            "explanation": "A stall occurs when the angle of attack is too high, causing airflow separation over the wing and a loss of lift."
+        },
+        {
+            "question_number": 4,
+            "question": "What is the purpose of flaps on an aircraft?",
+            "options": {
+                "A": "To increase lift and drag during takeoff and landing",
+                "B": "To reduce weight",
+                "C": "To stabilize the aircraft",
+                "D": "To improve engine performance"
+            },
+            "correct_answer": "A",
+            "explanation": "Flaps are used to increase lift and drag during takeoff and landing, allowing for slower speeds and shorter runways."
+        },
+        {
+            "question_number": 5,
+            "question": "What is the center of gravity (CG)?",
+            "options": {
+                "A": "The point where the aircraft's weight is evenly distributed",
+                "B": "The point where lift is generated",
+                "C": "The location of the heaviest cargo",
+                "D": "The midpoint of the wing"
+            },
+            "correct_answer": "A",
+            "explanation": "The center of gravity (CG) is the point where the aircraft's weight is evenly distributed and is critical for stability."
+        },
+        {
+            "question_number": 6,
+            "question": "What happens when the critical angle of attack is exceeded?",
+            "options": {
+                "A": "The aircraft accelerates",
+                "B": "A stall occurs",
+                "C": "The aircraft climbs steeply",
+                "D": "Lift increases significantly"
+            },
+            "correct_answer": "B",
+            "explanation": "Exceeding the critical angle of attack disrupts airflow over the wing, causing a stall."
+        },
+        {
+            "question_number": 7,
+            "question": "What is induced drag?",
+            "options": {
+                "A": "Drag caused by surface roughness",
+                "B": "Drag generated as a byproduct of lift",
+                "C": "Drag caused by engine performance",
+                "D": "Drag from airflow turbulence"
+            },
+            "correct_answer": "B",
+            "explanation": "Induced drag is generated as a byproduct of lift and increases at lower airspeeds with higher angles of attack."
+        },
+        {
+            "question_number": 8,
+            "question": "What is the function of an elevator on an aircraft?",
+            "options": {
+                "A": "To control roll",
+                "B": "To control yaw",
+                "C": "To control pitch",
+                "D": "To control thrust"
+            },
+            "correct_answer": "C",
+            "explanation": "The elevator controls pitch, which determines the aircraft's angle of ascent or descent."
+        },
+        {
+            "question_number": 9,
+            "question": "What is the primary purpose of the rudder?",
+            "options": {
+                "A": "To control pitch",
+                "B": "To control roll",
+                "C": "To control yaw",
+                "D": "To control lift"
+            },
+            "correct_answer": "C",
+            "explanation": "The rudder controls yaw, which adjusts the direction the aircraft's nose is pointing."
+        },
+        {
+            "question_number": 10,
+            "question": "What is parasite drag?",
+            "options": {
+                "A": "Drag caused by lift production",
+                "B": "Drag due to the aircraft's surface and shape",
+                "C": "Drag caused by the landing gear",
+                "D": "Drag from induced turbulence"
+            },
+            "correct_answer": "B",
+            "explanation": "Parasite drag is caused by the aircraft's surface, shape, and components disrupting airflow."
+        },
+        {
+            "question_number": 11,
+            "question": "What is the effect of an aft center of gravity on aircraft performance?",
+            "options": {
+                "A": "Improved stability",
+                "B": "Reduced fuel efficiency",
+                "C": "Decreased stall speed",
+                "D": "Increased maneuverability but reduced stability"
+            },
+            "correct_answer": "D",
+            "explanation": "An aft center of gravity increases maneuverability but reduces stability, making the aircraft harder to control."
+        },
+        {
+            "question_number": 12,
+            "question": "What is the purpose of ailerons?",
+            "options": {
+                "A": "To control pitch",
+                "B": "To control roll",
+                "C": "To control yaw",
+                "D": "To control drag"
+            },
+            "correct_answer": "B",
+            "explanation": "Ailerons control roll, which tilts the aircraft's wings for turning."
+        },
+        {
+            "question_number": 13,
+            "question": "What happens to lift when airspeed is doubled?",
+            "options": {
+                "A": "Lift quadruples",
+                "B": "Lift remains constant",
+                "C": "Lift doubles",
+                "D": "Lift halves"
+            },
+            "correct_answer": "A",
+            "explanation": "Lift is proportional to the square of airspeed, so doubling airspeed results in four times the lift."
+        },
+        {
+            "question_number": 14,
+            "question": "What is ground effect?",
+            "options": {
+                "A": "Increased drag near the ground",
+                "B": "Reduced lift near the ground",
+                "C": "Enhanced lift and reduced drag close to the ground",
+                "D": "Disruption of airflow over the tailplane"
+            },
+            "correct_answer": "C",
+            "explanation": "Ground effect occurs close to the ground, where interference reduces drag and increases lift."
+        },
+        {
+            "question_number": 15,
+            "question": "What is the purpose of spoilers on a wing?",
+            "options": {
+                "A": "To reduce drag",
+                "B": "To increase lift",
+                "C": "To decrease lift and increase drag",
+                "D": "To stabilize the aircraft in a turn"
+            },
+            "correct_answer": "C",
+            "explanation": "Spoilers decrease lift and increase drag, helping to slow the aircraft or descend more steeply."
+        },
+        {
+            "question_number": 16,
+            "question": "What is the significance of the lift-to-drag ratio?",
+            "options": {
+                "A": "It determines the wing's efficiency",
+                "B": "It measures engine power",
+                "C": "It evaluates aircraft stability",
+                "D": "It predicts roll rate"
+            },
+            "correct_answer": "A",
+            "explanation": "The lift-to-drag ratio measures the efficiency of the wing, with higher ratios indicating better performance."
+        },
+        {
+            "question_number": 17,
+            "question": "What is yaw stability?",
+            "options": {
+                "A": "Stability in the roll axis",
+                "B": "Stability in the vertical axis",
+                "C": "Stability in the pitch axis",
+                "D": "Stability during high-speed flight"
+            },
+            "correct_answer": "B",
+            "explanation": "Yaw stability refers to the aircraft's ability to maintain directional control along the vertical axis."
+        },
+        {
+            "question_number": 18,
+            "question": "What is the purpose of slats on a wing?",
+            "options": {
+                "A": "To increase lift at high speeds",
+                "B": "To improve airflow and lift at low speeds",
+                "C": "To reduce drag at cruising altitude",
+                "D": "To stabilize the aircraft during turns"
+            },
+            "correct_answer": "B",
+            "explanation": "Slats improve airflow and lift at low speeds by extending the wing's leading edge."
+        },
+        {
+            "question_number": 19,
+            "question": "What is adverse yaw?",
+            "options": {
+                "A": "Yaw in the opposite direction of a turn",
+                "B": "Yaw caused by crosswinds",
+                "C": "Yaw during high-speed descent",
+                "D": "Yaw caused by increased engine thrust"
+            },
+            "correct_answer": "A",
+            "explanation": "Adverse yaw occurs when the aircraft yaws opposite to the direction of a turn due to differential drag."
+        },
+        {
+            "question_number": 20,
+            "question": "What is the role of dihedral angle in wing design?",
+            "options": {
+                "A": "To increase lift",
+                "B": "To improve roll stability",
+                "C": "To reduce drag",
+                "D": "To increase speed"
+            },
+            "correct_answer": "B",
+            "explanation": "The dihedral angle improves roll stability, helping the aircraft return to level flight after a disturbance."
+        }
+    ], 
+    
+    "Human Factors and Airmanship": [
+        {
+            "question_number": 1,
+            "question": "What is the primary cause of pilot fatigue?",
+            "options": {
+                "A": "Prolonged exposure to high altitudes",
+                "B": "Extended periods of flight and lack of rest",
+                "C": "Excessive use of automation",
+                "D": "Operating in controlled airspace"
+            },
+            "correct_answer": "B",
+            "explanation": "Pilot fatigue is often caused by long flight hours and insufficient rest, leading to decreased performance."
+        },
+        {
+            "question_number": 2,
+            "question": "Why is situational awareness crucial for pilots?",
+            "options": {
+                "A": "To reduce fuel consumption",
+                "B": "To ensure compliance with regulations",
+                "C": "To maintain a clear understanding of the aircraft\u2019s position and environment",
+                "D": "To avoid interacting with air traffic control"
+            },
+            "correct_answer": "C",
+            "explanation": "Situational awareness helps pilots understand their surroundings and make informed decisions to ensure safety."
+        },
+        {
+            "question_number": 3,
+            "question": "What is hypoxia, and why is it dangerous for pilots?",
+            "options": {
+                "A": "A condition caused by excessive oxygen intake, leading to dizziness",
+                "B": "A lack of oxygen in the body, impairing cognitive and physical functions",
+                "C": "A state of overexertion from flying at high speeds",
+                "D": "A type of vertigo experienced during rapid descents"
+            },
+            "correct_answer": "B",
+            "explanation": "Hypoxia, caused by low oxygen levels, can impair critical decision-making and motor skills, making it dangerous for pilots."
+        },
+        {
+            "question_number": 4,
+            "question": "What is the role of CRM (Crew Resource Management) in aviation?",
+            "options": {
+                "A": "To manage fuel efficiency",
+                "B": "To enhance teamwork and communication among crew members",
+                "C": "To optimize navigation routes",
+                "D": "To minimize air traffic control interaction"
+            },
+            "correct_answer": "B",
+            "explanation": "CRM focuses on teamwork, communication, and decision-making to enhance safety and operational efficiency."
+        },
+        {
+            "question_number": 5,
+            "question": "What is the primary symptom of spatial disorientation in pilots?",
+            "options": {
+                "A": "Nausea during takeoff",
+                "B": "Inability to perceive the aircraft\u2019s attitude, altitude, or speed accurately",
+                "C": "Dizziness caused by rapid altitude changes",
+                "D": "Confusion when communicating with ATC"
+            },
+            "correct_answer": "B",
+            "explanation": "Spatial disorientation can cause pilots to misinterpret their position, leading to potentially hazardous situations."
+        },
+        {
+            "question_number": 6,
+            "question": "What is the most effective way to manage stress as a pilot?",
+            "options": {
+                "A": "Avoiding high-stress situations",
+                "B": "Maintaining physical fitness and using relaxation techniques",
+                "C": "Relying solely on automation",
+                "D": "Ignoring minor stressors"
+            },
+            "correct_answer": "B",
+            "explanation": "Physical fitness and relaxation techniques help pilots manage stress effectively, maintaining focus and performance."
+        },
+        {
+            "question_number": 7,
+            "question": "Why is maintaining a sterile cockpit during critical phases of flight important?",
+            "options": {
+                "A": "To ensure ATC communication is prioritized",
+                "B": "To minimize distractions and enhance focus on critical tasks",
+                "C": "To improve navigation accuracy",
+                "D": "To reduce cabin pressure fluctuations"
+            },
+            "correct_answer": "B",
+            "explanation": "A sterile cockpit minimizes distractions, allowing pilots to focus on crucial tasks during takeoff, landing, and other critical phases."
+        },
+        {
+            "question_number": 8,
+            "question": "What is the main goal of human factors training in aviation?",
+            "options": {
+                "A": "To improve navigation skills",
+                "B": "To enhance understanding of technical systems",
+                "C": "To reduce human error and improve safety",
+                "D": "To optimize fuel efficiency"
+            },
+            "correct_answer": "C",
+            "explanation": "Human factors training focuses on reducing human error by understanding psychological and physiological limitations."
+        },
+        {
+            "question_number": 9,
+            "question": "What is the impact of dehydration on pilot performance?",
+            "options": {
+                "A": "Enhanced concentration",
+                "B": "Reduced cognitive and physical abilities",
+                "C": "Increased energy levels",
+                "D": "Improved reaction times"
+            },
+            "correct_answer": "B",
+            "explanation": "Dehydration can impair cognitive and physical functions, affecting a pilot\u2019s ability to operate safely."
+        },
+        {
+            "question_number": 10,
+            "question": "What is the importance of the IMSAFE checklist in aviation?",
+            "options": {
+                "A": "To verify aircraft systems before flight",
+                "B": "To assess a pilot\u2019s fitness for flying",
+                "C": "To confirm weather conditions",
+                "D": "To evaluate flight plans"
+            },
+            "correct_answer": "B",
+            "explanation": "The IMSAFE checklist helps pilots self-assess their fitness for flying, considering illness, medication, stress, alcohol, fatigue, and eating."
+        },
+        {
+            "question_number": 11,
+            "question": "How does excessive workload affect pilot decision-making?",
+            "options": {
+                "A": "It improves multitasking ability",
+                "B": "It leads to faster decisions",
+                "C": "It increases the likelihood of errors",
+                "D": "It enhances situational awareness"
+            },
+            "correct_answer": "C",
+            "explanation": "Excessive workload can overwhelm a pilot, reducing focus and increasing the likelihood of errors."
+        },
+        {
+            "question_number": 12,
+            "question": "Why is understanding the startle effect important in aviation?",
+            "options": {
+                "A": "To enhance fuel efficiency",
+                "B": "To improve response to unexpected events",
+                "C": "To optimize ATC communication",
+                "D": "To avoid spatial disorientation"
+            },
+            "correct_answer": "B",
+            "explanation": "Understanding the startle effect helps pilots prepare for and respond effectively to unexpected events."
+        },
+        {
+            "question_number": 13,
+            "question": "What is the purpose of fatigue risk management systems (FRMS)?",
+            "options": {
+                "A": "To reduce aircraft maintenance costs",
+                "B": "To minimize pilot fatigue and enhance safety",
+                "C": "To optimize flight schedules",
+                "D": "To improve communication with ATC"
+            },
+            "correct_answer": "B",
+            "explanation": "FRMS aims to minimize fatigue-related risks by implementing measures that enhance safety and performance."
+        },
+        {
+            "question_number": 14,
+            "question": "How does hypoglycemia affect pilot performance?",
+            "options": {
+                "A": "It improves reaction times",
+                "B": "It reduces cognitive function and causes dizziness",
+                "C": "It enhances situational awareness",
+                "D": "It increases endurance"
+            },
+            "correct_answer": "B",
+            "explanation": "Low blood sugar (hypoglycemia) impairs cognitive functions and can cause dizziness, affecting pilot performance."
+        },
+        {
+            "question_number": 15,
+            "question": "What is the significance of peer debriefing in aviation?",
+            "options": {
+                "A": "To assess technical knowledge",
+                "B": "To address operational issues and improve teamwork",
+                "C": "To verify flight plan accuracy",
+                "D": "To evaluate aircraft performance"
+            },
+            "correct_answer": "B",
+            "explanation": "Peer debriefing fosters teamwork and helps address operational issues, enhancing overall performance."
+        },
+        {
+            "question_number": 16,
+            "question": "Why is communication critical in multi-crew operations?",
+            "options": {
+                "A": "To manage fuel levels",
+                "B": "To ensure clarity and prevent misunderstandings",
+                "C": "To reduce workload",
+                "D": "To enhance navigation accuracy"
+            },
+            "correct_answer": "B",
+            "explanation": "Clear communication prevents misunderstandings and ensures effective teamwork in multi-crew operations."
+        },
+        {
+            "question_number": 17,
+            "question": "What is the impact of noise-induced hearing loss on pilots?",
+            "options": {
+                "A": "Improved concentration",
+                "B": "Difficulty in hearing critical communications",
+                "C": "Enhanced ability to detect ATC instructions",
+                "D": "Increased situational awareness"
+            },
+            "correct_answer": "B",
+            "explanation": "Noise-induced hearing loss can hinder a pilot's ability to hear and respond to critical communications."
+        },
+        {
+            "question_number": 18,
+            "question": "What is the role of empathy in aviation airmanship?",
+            "options": {
+                "A": "To improve navigation skills",
+                "B": "To foster teamwork and understanding among crew members",
+                "C": "To enhance technical knowledge",
+                "D": "To optimize fuel efficiency"
+            },
+            "correct_answer": "B",
+            "explanation": "Empathy helps build trust and teamwork among crew members, enhancing operational effectiveness."
+        },
+        {
+            "question_number": 19,
+            "question": "Why is routine practice of emergency procedures important?",
+            "options": {
+                "A": "To increase workload",
+                "B": "To ensure familiarity and quick responses during emergencies",
+                "C": "To enhance aircraft performance",
+                "D": "To minimize ATC communication"
+            },
+            "correct_answer": "B",
+            "explanation": "Regular practice ensures pilots can respond effectively and confidently during emergencies."
+        },
+        {
+            "question_number": 20,
+            "question": "What is the role of airmanship in aviation safety?",
+            "options": {
+                "A": "To optimize fuel consumption",
+                "B": "To promote discipline, professionalism, and safety-conscious behavior",
+                "C": "To reduce flight hours",
+                "D": "To minimize airspace congestion"
+            },
+            "correct_answer": "B",
+            "explanation": "Airmanship involves professional behavior and decision-making that prioritize safety and efficiency."
+        }
+    ],
+
+    "Navigation": [
+        {
+            "question_number": 1,
+            "question": "What does a VOR station provide to pilots?",
+            "options": {
+                "A": "Weather information",
+                "B": "Altitude data",
+                "C": "Directional guidance",
+                "D": "Traffic updates"
+            },
+            "correct_answer": "C",
+            "explanation": "A VOR (VHF Omnidirectional Range) station provides directional guidance to pilots to navigate accurately."
+        },
+        {
+            "question_number": 2,
+            "question": "How is True North different from Magnetic North?",
+            "options": {
+                "A": "True North is based on the Earth's magnetic field",
+                "B": "True North is geographically fixed",
+                "C": "Magnetic North does not change over time",
+                "D": "There is no difference"
+            },
+            "correct_answer": "B",
+            "explanation": "True North refers to the direction towards the geographic North Pole, while Magnetic North aligns with the Earth's magnetic field and changes over time."
+        },
+        {
+            "question_number": 3,
+            "question": "What does a GPS provide to pilots?",
+            "options": {
+                "A": "Precise altitude readings",
+                "B": "Position and navigation information",
+                "C": "Air traffic data",
+                "D": "Weather updates"
+            },
+            "correct_answer": "B",
+            "explanation": "A GPS (Global Positioning System) provides precise position and navigation information for flight planning and execution."
+        },
+        {
+            "question_number": 4,
+            "question": "What does the term 'dead reckoning' mean in navigation?",
+            "options": {
+                "A": "Navigating using visual landmarks",
+                "B": "Using instruments to navigate",
+                "C": "Calculating position based on heading, speed, and time",
+                "D": "Flying without a plan"
+            },
+            "correct_answer": "C",
+            "explanation": "Dead reckoning involves calculating the current position based on a known starting point, speed, and time elapsed."
+        },
+        {
+            "question_number": 5,
+            "question": "What does a sectional chart depict?",
+            "options": {
+                "A": "Air traffic routes",
+                "B": "Detailed topographical information and airspace boundaries",
+                "C": "Weather patterns",
+                "D": "Altitude restrictions"
+            },
+            "correct_answer": "B",
+            "explanation": "Sectional charts provide detailed topographical and airspace boundary information for navigation."
+        },
+        {
+            "question_number": 6,
+            "question": "What is a bearing in navigation?",
+            "options": {
+                "A": "The angular direction from one point to another",
+                "B": "The altitude difference between two points",
+                "C": "The distance traveled in a straight line",
+                "D": "The time taken to reach a destination"
+            },
+            "correct_answer": "A",
+            "explanation": "A bearing is the angular direction measured in degrees from one point to another, often relative to North."
+        },
+        {
+            "question_number": 7,
+            "question": "What is the significance of a waypoint in navigation?",
+            "options": {
+                "A": "It marks the end of a journey",
+                "B": "It is a predefined location for navigation purposes",
+                "C": "It indicates restricted airspace",
+                "D": "It signals an altitude change"
+            },
+            "correct_answer": "B",
+            "explanation": "A waypoint is a specific, predefined location used for navigation, often as part of a flight plan."
+        },
+        {
+            "question_number": 8,
+            "question": "What is a track in navigation?",
+            "options": {
+                "A": "The planned route on a map",
+                "B": "The actual path an aircraft follows over the ground",
+                "C": "The direction of the runway",
+                "D": "The altitude profile of a flight"
+            },
+            "correct_answer": "B",
+            "explanation": "A track is the actual path an aircraft follows over the ground, which may differ from the planned route due to wind or other factors."
+        },
+        {
+            "question_number": 9,
+            "question": "What does the term 'drift' refer to in navigation?",
+            "options": {
+                "A": "The difference between true and magnetic north",
+                "B": "The sideways movement of an aircraft due to wind",
+                "C": "The time delay in reaching a waypoint",
+                "D": "The gradual descent of an aircraft"
+            },
+            "correct_answer": "B",
+            "explanation": "Drift refers to the sideways movement of an aircraft caused by wind, affecting its track over the ground."
+        },
+        {
+            "question_number": 10,
+            "question": "What is the purpose of an E6B flight computer?",
+            "options": {
+                "A": "To calculate wind correction angles and fuel consumption",
+                "B": "To provide weather updates",
+                "C": "To measure altitude changes",
+                "D": "To navigate using GPS signals"
+            },
+            "correct_answer": "A",
+            "explanation": "An E6B flight computer is a manual tool used to calculate wind correction angles, fuel consumption, and other essential navigation parameters."
+        },
+        {
+            "question_number": 11,
+            "question": "What is wind correction angle?",
+            "options": {
+                "A": "The angle between magnetic and true north",
+                "B": "The adjustment made to counteract wind drift",
+                "C": "The angle of descent during landing",
+                "D": "The deviation caused by local magnetic fields"
+            },
+            "correct_answer": "B",
+            "explanation": "Wind correction angle is the adjustment made to the heading to compensate for wind drift and stay on course."
+        },
+        {
+            "question_number": 12,
+            "question": "What is a rhumb line?",
+            "options": {
+                "A": "The shortest distance between two points on the Earth",
+                "B": "A line of constant bearing on a map",
+                "C": "A path following the curvature of the Earth",
+                "D": "A line connecting two waypoints"
+            },
+            "correct_answer": "B",
+            "explanation": "A rhumb line is a path of constant bearing, appearing as a straight line on a Mercator projection map."
+        },
+        {
+            "question_number": 13,
+            "question": "What is magnetic declination?",
+            "options": {
+                "A": "The angular difference between true north and magnetic north",
+                "B": "The deviation of a compass needle caused by local magnetic fields",
+                "C": "The angle between a waypoint and the aircraft",
+                "D": "The rate of change of wind direction"
+            },
+            "correct_answer": "A",
+            "explanation": "Magnetic declination is the angular difference between true north and magnetic north, varying by location."
+        },
+        {
+            "question_number": 14,
+            "question": "What is the significance of a TAF in navigation?",
+            "options": {
+                "A": "It provides runway information",
+                "B": "It gives terminal aerodrome weather forecasts",
+                "C": "It indicates airspace boundaries",
+                "D": "It outlines flight plan requirements"
+            },
+            "correct_answer": "B",
+            "explanation": "A TAF (Terminal Aerodrome Forecast) provides pilots with weather forecasts for planning arrivals and departures."
+        },
+        {
+            "question_number": 15,
+            "question": "What is the purpose of a DME (Distance Measuring Equipment)?",
+            "options": {
+                "A": "To calculate altitude changes",
+                "B": "To measure the distance between the aircraft and a ground station",
+                "C": "To provide heading information",
+                "D": "To monitor wind speed and direction"
+            },
+            "correct_answer": "B",
+            "explanation": "DME measures the slant range distance between the aircraft and a ground station, aiding in navigation."
+        },
+        {
+            "question_number": 16,
+            "question": "What is a compass deviation?",
+            "options": {
+                "A": "The difference between true and magnetic north",
+                "B": "The error in compass readings caused by local magnetic fields",
+                "C": "The difference between magnetic and grid north",
+                "D": "The adjustment needed for wind correction"
+            },
+            "correct_answer": "B",
+            "explanation": "Compass deviation is the error in compass readings caused by local magnetic fields within the aircraft."
+        },
+        {
+            "question_number": 17,
+            "question": "What is the purpose of a flight plan?",
+            "options": {
+                "A": "To inform air traffic control of an intended route",
+                "B": "To calculate fuel consumption",
+                "C": "To determine weather conditions",
+                "D": "To monitor air traffic density"
+            },
+            "correct_answer": "A",
+            "explanation": "A flight plan informs air traffic control of the pilot's intended route and is required for most flights in controlled airspace."
+        },
+        {
+            "question_number": 18,
+            "question": "What is wind correction angle?",
+            "options": {
+                "A": "The angular deviation",
+                "B": "Correct compensation",
+                "C": "Variable drift",
+                "D": "Landing cross ref"
+            },
+            "correct_answer": "A",
+            "explanation": "Right planes measure correction cross."
+        },
+        {
+            "question_number": 19,
+            "question": "What is the purpose of a holding pattern in navigation?",
+            "options": {
+                "A": "To wait for landing clearance",
+                "B": "To navigate through restricted airspace",
+                "C": "To increase airspeed",
+                "D": "To reduce altitude"
+            },
+            "correct_answer": "A",
+            "explanation": "A holding pattern is used to keep aircraft in a designated airspace while waiting for landing clearance or further instructions."
+        },
+        {
+            "question_number": 20,
+            "question": "What does the acronym 'ADF' stand for in navigation?",
+            "options": {
+                "A": "Automatic Direction Finder",
+                "B": "Aircraft Drift Function",
+                "C": "Altitude Determination Factor",
+                "D": "Airspace Deviation Frequency"
+            },
+            "correct_answer": "A",
+            "explanation": "ADF stands for Automatic Direction Finder, a navigation tool used to determine the relative bearing of a station."
+        }
+    ]
+
+}
+
+
+
