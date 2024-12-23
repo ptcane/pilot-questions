@@ -26,6 +26,7 @@ if "question_index" not in st.session_state:
 # Reset session for a new quiz
 def reset_quiz(topic):
 
+    st.session_state["topic"] = topic
     available_questions = [q for q in questions_data[topic] if q["question_number"] not in st.session_state["used_questions"].get(topic, [])]
     if len(available_questions) < questions_per_quiz:
         st.session_state["used_questions"][topic] = list()
@@ -41,7 +42,7 @@ def reset_quiz(topic):
 
 def next_question():
 
-    st.session_state["used_questions"][topic].append(question["question_number"])
+    st.session_state["used_questions"][st.session_state["topic"]].append(question["question_number"])
     st.session_state["question_index"] += 1
     return
 
@@ -55,9 +56,10 @@ st.title("Pilot Quiz")
 
 
 # Step 1: Choose a topic
-topic = st.selectbox("Choose a topic:", list(questions_data.keys()), on_change=clear_current_questions)
+
 
 if st.session_state["current_questions"] == list():
+    topic = st.selectbox("Choose a topic:", list(questions_data.keys()), on_change=clear_current_questions)
     st.button("Start Quiz", on_click=reset_quiz, args=[topic])
 
 else:
@@ -95,4 +97,6 @@ else:
         # Step 3: Show results and allow retry
         st.write(f"### Quiz Complete! You scored {st.session_state['score']} out of {len(st.session_state['current_questions'])}.")
 
-        st.button("Try Again", on_click=reset_quiz, args=[topic])
+
+        st.button(f"Try more questions on {st.session_state["topic"]}", on_click=reset_quiz, args=[st.session_state["topic"]])
+        st.button("Choose another topic", on_click=clear_current_questions)
