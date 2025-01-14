@@ -146,15 +146,15 @@
         "Air Law": [
             {
                 "question_number": 1,
-                "question": "Which class of airspace requires a pilot to obtain ATC clearance before entry?",
+                "question": "Which is: Controlled airspace ... and ... Pilots must obtain clearance from Air Traffic Control ... and ... must follow ATC instructions implicitly?",
                 "options": {
                     "A": "Class G",
-                    "B": "Class D",
-                    "C": "Class E",
-                    "D": "Class A"
+                    "B": "Only classes A and C",
+                    "C": "Only classes A, C, D and E",
+                    "D": "Only classes A, C, D, E and G"
                 },
-                "correct_answer": "D",
-                "explanation": "Class A airspace is strictly controlled, and all aircraft require ATC clearance to enter."
+                "correct_answer": "C",
+                "explanation": "https://nats.aero/blog/2017/05/hidden-secrets-uk-airspace-airspace-classifications/"
             },
             {
                 "question_number": 2,
